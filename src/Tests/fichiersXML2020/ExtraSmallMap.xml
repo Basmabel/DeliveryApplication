@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map>
+<intersection id="25175778" latitude="45.75343" longitude="4.8574653"/>
+<intersection id="25175791" latitude="45.75406" longitude="4.857418"/>
+<intersection id="2117622723" latitude="45.75425" longitude="4.8591485"/>
+<segment destination="25175778" length="69.979805" name="Rue Danton" origin="25175791"/>
+<segment destination="2117622723" length="136.00636" name="Rue de l'Abondance" origin="25175791"/>
+</map>

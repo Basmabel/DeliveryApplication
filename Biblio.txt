@@ -1,0 +1,3 @@
+http://iharder.sourceforge.net/current/java/filedrop/
+
+DrawnMap : calculate pixel position of longitude and latitude https://stackoverflow.com/questions/38748832/convert-longitude-and-latitude-coordinates-to-image-of-a-map-pixels-x-and-y-coor

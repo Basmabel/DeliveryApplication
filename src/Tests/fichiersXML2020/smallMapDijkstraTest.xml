@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map>
+<intersection id="1" latitude="0" longitude="3"/>
+<intersection id="2" latitude="0" longitude="2"/>
+<intersection id="3" latitude="1" longitude="2"/>
+<intersection id="4" latitude="1" longitude="1"/>
+<intersection id="5" latitude="2" longitude="2"/>
+<intersection id="6" latitude="2" longitude="1"/>
+<intersection id="7" latitude="3" longitude="1"/>
+<intersection id="8" latitude="3" longitude="3"/>
+<segment destination="2" length="1" name="Rue Danton" origin="1"/>
+<segment destination="1" length="1" name="Rue Danton" origin="2"/>
+<segment destination="3" length="1" name="Rue de l'Abondance" origin="2"/>
+<segment destination="2" length="1" name="Rue de l'Abondance" origin="3"/>
+<segment destination="4" length="1" name="" origin="3"/>
+<segment destination="3" length="1" name="" origin="4"/>
+<segment destination="5" length="1" name="Avenue Lacassagne" origin="3"/>
+<segment destination="3" length="1" name="Avenue Lacassagne" origin="5"/>
+<segment destination="6" length="1" name="Rue Sainte-Anne de Baraban" origin="5"/>
+<segment destination="5" length="1" name="Rue Sainte-Anne de Baraban" origin="6"/>
+<segment destination="7" length="1" name="" origin="6"/>
+<segment destination="8" length="2" name="Avenue Lacassagne" origin="7"/>
+<segment destination="1" length="3" name="Rue Philomène Magnin" origin="8"/>
+<segment destination="8" length="3" name="Rue Philomène Magnin" origin="1"/>
+</map>
